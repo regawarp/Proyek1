@@ -17,6 +17,7 @@ public class CobaCoba {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("HHAAAAAAAAAAA");
+        System.out.println("UUUUUUUUuuuu");
     }
     
 }
